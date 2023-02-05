@@ -13,39 +13,58 @@ img{
     margin-inline:  200px;
     border-inline-end: 40px;
     border-image-source: url("Qr\ mobile.png");
+
+    border: solid 10px rgb(94, 6, 116);
+    flex: content;
+    align-items: center;
+    width: 50;
+    margin-top: 70px;
+    display: flex;
+
     
 
-    border: 70px; color: rgb(70, 3, 97);
-    border: 10px solid
+
+}  
+ body{
+ 
+
+    background-color: rgba(43, 129, 179, 0.884);
+
+  
+ }
+button{
+    display: flex;
+    position: absolute ;
+    margin-top: 500PX;
+    color: rgb(23, 20, 220);
+    border-radius: solid rgba(83, 8, 8, 0.76);
+    border-color: rgba(42, 211, 211, 0.863);
+    border-radius: 5px;
+    font-size: 20px;
+    margin-inline: 290px;
+    font-family: 'Franklin Gothic Medium'
+    
+    
+    
 
     
 }
-
-body{
-    background-color: rgba(93, 6, 119, 0.466);
-    position: absolute;
-    
-    top: 50px;
-    left: 70px;
-}
-
-
 h1{
-    
-    font-size: 40px;
-    font-family: Georgia, 'Times New Roman', Times, serif;
-    margin-left: 70px;
-    position:relative;
-    
-    
-    color: rgb(230, 230, 230);
-    text-align: justify;
-text-decoration: underline
-alingn- itens; text-justify: 20px;
+color: rgba(38, 5, 156, 0.911);
 
-
+    display: flex;
+    align-items: 90px ;
+    margin-inline: 238px;
+    position: absolute ;
+    z-index: 999;
+    margin-top: 120px;
+    font-size: 3em
+    
+  
+ 
 }
 
-
-
-
+    
+   
+        
+    
